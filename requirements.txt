@@ -14,3 +14,5 @@ pg8000
 python-dotenv
 # pyload
 # sqlalchemy-errors
+streamlit
+plotly
